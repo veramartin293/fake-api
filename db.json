@@ -1,0 +1,8 @@
+{
+  "movies": [
+    {
+      "title": "star wars episode 1",
+      "duration": 120
+    }
+  ]
+}
