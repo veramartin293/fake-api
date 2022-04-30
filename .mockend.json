@@ -1,11 +1,11 @@
 {
-  "Post": {
+  "Movie": {
     "title": { "string": {} },
     "comments": {
       "hasMany": "Comment"
     }
   },
-  "Comment": {
+  "Review": {
     "body": { "string": {} },
     "post": {
       "belongsTo": "Post"
