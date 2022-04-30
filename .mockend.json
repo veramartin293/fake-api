@@ -1,7 +1,7 @@
 {
   "Movie": {
-    "loremWords": { "minLength": 3, "maxLength": 5 }
-    "comments": {
+    "loremWords": { "minLength": 3, "maxLength": 5 },
+    "reviews": {
       "hasMany": "Comment"
     }
   },
