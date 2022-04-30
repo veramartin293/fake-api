@@ -1,6 +1,6 @@
 {
   "Movie": {
-    "title": { "string": {} },
+    "loremWords": { "minLength": 3, "maxLength": 5 }
     "comments": {
       "hasMany": "Comment"
     }
